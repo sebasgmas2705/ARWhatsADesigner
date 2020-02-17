@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "france.arreferenceimage"
+    },
+    {
+      "filename" : "germany.arreferenceimage"
+    },
+    {
+      "filename" : "italy.arreferenceimage"
+    },
+    {
+      "filename" : "spain.arreferenceimage"
+    },
+    {
+      "filename" : "usa.arreferenceimage"
+    }
+  ]
+}

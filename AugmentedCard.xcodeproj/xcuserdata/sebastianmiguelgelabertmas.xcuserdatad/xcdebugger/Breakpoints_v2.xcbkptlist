@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F504487-E27A-4D6C-8C76-92F67DDA7209"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA4765C6-E315-46DD-9C8F-BC495D772EF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "displayDetailView(on:xOffset:refImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03CC40C4-6C76-4F7F-B87C-C78269C130F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "displayDetailView(on:xOffset:refImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82A2B340-9282-45FF-88F1-75B8AC36009C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "displayWebView(on:xOffset:refImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EF7E2E0-2D79-4D28-BDE8-15A5A592CB67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "displayDetailView(on:xOffset:refImage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2EF7E2E0-2D79-4D28-BDE8-15A5A592CB67 - 9d186f6dd4327e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AugmentedCard.ViewController.displayDetailView(on: __C.SCNNode, xOffset: CoreGraphics.CGFloat, refImage: __C.ARReferenceImage) -&gt; ()"
+                  moduleName = "AugmentedCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastianmiguelgelabertmas/Documents/Developer/Freelance/augmented-card/AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "2EF7E2E0-2D79-4D28-BDE8-15A5A592CB67 - 9d186f6dd4327e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AugmentedCard.ViewController.displayDetailView(on: __C.SCNNode, xOffset: CoreGraphics.CGFloat, refImage: __C.ARReferenceImage) -&gt; ()"
+                  moduleName = "AugmentedCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastianmiguelgelabertmas/Documents/Developer/Freelance/augmented-card/AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "2EF7E2E0-2D79-4D28-BDE8-15A5A592CB67 - 9d186f6dd4327e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AugmentedCard.ViewController.displayDetailView(on: __C.SCNNode, xOffset: CoreGraphics.CGFloat, refImage: __C.ARReferenceImage) -&gt; ()"
+                  moduleName = "AugmentedCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastianmiguelgelabertmas/Documents/Developer/Freelance/augmented-card/AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "2EF7E2E0-2D79-4D28-BDE8-15A5A592CB67 - 9d186f6dd4327e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AugmentedCard.ViewController.displayDetailView(on: __C.SCNNode, xOffset: CoreGraphics.CGFloat, refImage: __C.ARReferenceImage) -&gt; ()"
+                  moduleName = "AugmentedCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastianmiguelgelabertmas/Documents/Developer/Freelance/augmented-card/AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1740">
+               </Location>
+               <Location
+                  uuid = "2EF7E2E0-2D79-4D28-BDE8-15A5A592CB67 - 9d186f6dd4327e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AugmentedCard.ViewController.displayDetailView(on: __C.SCNNode, xOffset: CoreGraphics.CGFloat, refImage: __C.ARReferenceImage) -&gt; ()"
+                  moduleName = "AugmentedCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastianmiguelgelabertmas/Documents/Developer/Freelance/augmented-card/AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2360">
+               </Location>
+               <Location
+                  uuid = "2EF7E2E0-2D79-4D28-BDE8-15A5A592CB67 - 9d186f6dd4327e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AugmentedCard.ViewController.displayDetailView(on: __C.SCNNode, xOffset: CoreGraphics.CGFloat, refImage: __C.ARReferenceImage) -&gt; ()"
+                  moduleName = "AugmentedCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sebastianmiguelgelabertmas/Documents/Developer/Freelance/augmented-card/AugmentedCard/ViewController+ARSCNViewDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2980">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
